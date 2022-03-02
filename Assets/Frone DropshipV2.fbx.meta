@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 9e031c408ed9a454c8f881a74f1d3649
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Door
+    100002: EngineL
+    100004: EngineL.001
+    100006: EngineL.002
+    100008: EngineR
+    100010: EngineR.001
+    100012: EngineR.002
+    100014: //RootNode
+    100016: MainBody
+    100018: MainBody.001
+    100020: MainBody.002
+    100022: MainBooster
+    100024: Scanner
+    100026: Window
+    100028: Door.001
+    100030: Door.002
+    100032: MainBody.003
+    100034: MainBody.004
+    100036: MainBody.005
+    100038: MainBody.006
+    400000: Door
+    400002: EngineL
+    400004: EngineL.001
+    400006: EngineL.002
+    400008: EngineR
+    400010: EngineR.001
+    400012: EngineR.002
+    400014: //RootNode
+    400016: MainBody
+    400018: MainBody.001
+    400020: MainBody.002
+    400022: MainBooster
+    400024: Scanner
+    400026: Window
+    400028: Door.001
+    400030: Door.002
+    400032: MainBody.003
+    400034: MainBody.004
+    400036: MainBody.005
+    400038: MainBody.006
+    2100000: No Name
+    2300000: Door
+    2300002: EngineL
+    2300004: EngineL.001
+    2300006: EngineL.002
+    2300008: EngineR
+    2300010: EngineR.001
+    2300012: EngineR.002
+    2300014: MainBody
+    2300016: MainBody.001
+    2300018: MainBody.002
+    2300020: MainBooster
+    2300022: Scanner
+    2300024: Window
+    2300026: Door.001
+    2300028: Door.002
+    2300030: MainBody.003
+    2300032: MainBody.004
+    2300034: MainBody.005
+    2300036: MainBody.006
+    3300000: Door
+    3300002: EngineL
+    3300004: EngineL.001
+    3300006: EngineL.002
+    3300008: EngineR
+    3300010: EngineR.001
+    3300012: EngineR.002
+    3300014: MainBody
+    3300016: MainBody.001
+    3300018: MainBody.002
+    3300020: MainBooster
+    3300022: Scanner
+    3300024: Window
+    3300026: Door.001
+    3300028: Door.002
+    3300030: MainBody.003
+    3300032: MainBody.004
+    3300034: MainBody.005
+    3300036: MainBody.006
+    4300000: EngineL
+    4300002: EngineL.002
+    4300004: EngineL.001
+    4300006: EngineR
+    4300008: EngineR.002
+    4300010: EngineR.001
+    4300012: Door
+    4300014: MainBody
+    4300016: MainBody.002
+    4300018: MainBody.001
+    4300020: MainBooster
+    4300022: Window
+    4300024: Scanner
+    4300026: Door.002
+    4300028: Door.001
+    4300030: MainBody.003
+    4300032: MainBody.004
+    4300034: MainBody.005
+    4300036: MainBody.006
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

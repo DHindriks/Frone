@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 7ebc8b1b57ab5f8468acf467fecc9dd8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BoosterFL
+    100002: BoosterFL.001
+    100004: BoosterFL.002
+    100006: BoosterFL.003
+    100008: BoosterFL.004
+    100010: BoosterFL.005
+    100012: BoosterFL.006
+    100014: BoosterFL.007
+    100016: Bumper_key
+    100018: Bumper_key.001
+    100020: Bumper_key.002
+    100022: Bumper_key.003
+    100024: Bumper_key.004
+    100026: Bumper_key.005
+    100028: Bumper_key.006
+    100030: Bumper_p_key
+    100032: Cube_shard
+    100034: Cube_shard.001
+    100036: Cube_shard.002
+    100038: //RootNode
+    100040: LightBLarge
+    100042: LightFL
+    100044: LightsBSmall
+    100046: LightsFSmallL
+    100048: LightsFSmallR
+    100050: Scanners
+    100052: Trunk
+    100054: WindowL
+    100056: WindowR
+    400000: BoosterFL
+    400002: BoosterFL.001
+    400004: BoosterFL.002
+    400006: BoosterFL.003
+    400008: BoosterFL.004
+    400010: BoosterFL.005
+    400012: BoosterFL.006
+    400014: BoosterFL.007
+    400016: Bumper_key
+    400018: Bumper_key.001
+    400020: Bumper_key.002
+    400022: Bumper_key.003
+    400024: Bumper_key.004
+    400026: Bumper_key.005
+    400028: Bumper_key.006
+    400030: Bumper_p_key
+    400032: Cube_shard
+    400034: Cube_shard.001
+    400036: Cube_shard.002
+    400038: //RootNode
+    400040: LightBLarge
+    400042: LightFL
+    400044: LightsBSmall
+    400046: LightsFSmallL
+    400048: LightsFSmallR
+    400050: Scanners
+    400052: Trunk
+    400054: WindowL
+    400056: WindowR
+    2100000: Material
+    2100002: No Name
+    2300000: BoosterFL
+    2300002: BoosterFL.001
+    2300004: BoosterFL.002
+    2300006: BoosterFL.003
+    2300008: BoosterFL.004
+    2300010: BoosterFL.005
+    2300012: BoosterFL.006
+    2300014: BoosterFL.007
+    2300016: Bumper_key
+    2300018: Bumper_key.001
+    2300020: Bumper_key.002
+    2300022: Bumper_key.003
+    2300024: Bumper_key.004
+    2300026: Bumper_key.005
+    2300028: Bumper_key.006
+    2300030: Cube_shard
+    2300032: Cube_shard.001
+    2300034: Cube_shard.002
+    2300036: LightBLarge
+    2300038: LightFL
+    2300040: LightsBSmall
+    2300042: LightsFSmallL
+    2300044: LightsFSmallR
+    2300046: Scanners
+    2300048: Trunk
+    2300050: WindowL
+    2300052: WindowR
+    3300000: BoosterFL
+    3300002: BoosterFL.001
+    3300004: BoosterFL.002
+    3300006: BoosterFL.003
+    3300008: BoosterFL.004
+    3300010: BoosterFL.005
+    3300012: BoosterFL.006
+    3300014: BoosterFL.007
+    3300016: Bumper_key
+    3300018: Bumper_key.001
+    3300020: Bumper_key.002
+    3300022: Bumper_key.003
+    3300024: Bumper_key.004
+    3300026: Bumper_key.005
+    3300028: Bumper_key.006
+    3300030: Cube_shard
+    3300032: Cube_shard.001
+    3300034: Cube_shard.002
+    3300036: LightBLarge
+    3300038: LightFL
+    3300040: LightsBSmall
+    3300042: LightsFSmallL
+    3300044: LightsFSmallR
+    3300046: Scanners
+    3300048: Trunk
+    3300050: WindowL
+    3300052: WindowR
+    4300000: Cube_shard.002
+    4300002: Cube_shard.001
+    4300004: Cube_shard
+    4300006: WindowL
+    4300008: LightsFSmallL
+    4300010: Bumper_key.006
+    4300012: Bumper_key.005
+    4300014: Bumper_key.004
+    4300016: Bumper_key.003
+    4300018: Bumper_key.002
+    4300020: Bumper_key.001
+    4300022: Bumper_key
+    4300024: LightsFSmallR
+    4300026: LightFL
+    4300028: LightsBSmall
+    4300030: LightBLarge
+    4300032: Scanners
+    4300034: WindowR
+    4300036: BoosterFL.006
+    4300038: BoosterFL.007
+    4300040: Trunk
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

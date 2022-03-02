@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 7e3b1258a2d747d4996d6b87eaa27a75
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body_shard
+    100002: Body_shard.001
+    100004: Body_shard.002
+    100006: DLayer1
+    100008: DLayer2
+    100010: DLayer3
+    100012: EngineL
+    100014: EngineL.001
+    100016: EngineM
+    100018: EngineM.001
+    100020: EngineR
+    100022: EngineR.001
+    100024: ExhaustL
+    100026: ExhaustL.001
+    100028: ExhaustR
+    100030: ExhaustR.001
+    100032: //RootNode
+    100034: Sawblade
+    100036: SawContainer_shard
+    100038: SawContainer_shard.001
+    100040: SawContainer_shard.002
+    100042: SawContainer_shard.003
+    100044: SawHolder
+    100046: Stabilizers
+    400000: Body_shard
+    400002: Body_shard.001
+    400004: Body_shard.002
+    400006: DLayer1
+    400008: DLayer2
+    400010: DLayer3
+    400012: EngineL
+    400014: EngineL.001
+    400016: EngineM
+    400018: EngineM.001
+    400020: EngineR
+    400022: EngineR.001
+    400024: ExhaustL
+    400026: ExhaustL.001
+    400028: ExhaustR
+    400030: ExhaustR.001
+    400032: //RootNode
+    400034: Sawblade
+    400036: SawContainer_shard
+    400038: SawContainer_shard.001
+    400040: SawContainer_shard.002
+    400042: SawContainer_shard.003
+    400044: SawHolder
+    400046: Stabilizers
+    2100000: SawContainer_Outer
+    2100002: Body_Outer
+    2100004: No Name
+    2300000: Body_shard
+    2300002: Body_shard.001
+    2300004: Body_shard.002
+    2300006: DLayer1
+    2300008: DLayer2
+    2300010: DLayer3
+    2300012: EngineL
+    2300014: EngineL.001
+    2300016: EngineM
+    2300018: EngineM.001
+    2300020: EngineR
+    2300022: EngineR.001
+    2300024: ExhaustL
+    2300026: ExhaustL.001
+    2300028: ExhaustR
+    2300030: ExhaustR.001
+    2300032: Sawblade
+    2300034: SawContainer_shard
+    2300036: SawContainer_shard.001
+    2300038: SawContainer_shard.002
+    2300040: SawContainer_shard.003
+    2300042: SawHolder
+    2300044: Stabilizers
+    3300000: Body_shard
+    3300002: Body_shard.001
+    3300004: Body_shard.002
+    3300006: DLayer1
+    3300008: DLayer2
+    3300010: DLayer3
+    3300012: EngineL
+    3300014: EngineL.001
+    3300016: EngineM
+    3300018: EngineM.001
+    3300020: EngineR
+    3300022: EngineR.001
+    3300024: ExhaustL
+    3300026: ExhaustL.001
+    3300028: ExhaustR
+    3300030: ExhaustR.001
+    3300032: Sawblade
+    3300034: SawContainer_shard
+    3300036: SawContainer_shard.001
+    3300038: SawContainer_shard.002
+    3300040: SawContainer_shard.003
+    3300042: SawHolder
+    3300044: Stabilizers
+    4300000: SawContainer_shard.003
+    4300002: SawContainer_shard.002
+    4300004: SawContainer_shard.001
+    4300006: SawContainer_shard
+    4300008: Body_shard.002
+    4300010: Body_shard.001
+    4300012: Body_shard
+    4300014: Stabilizers
+    4300016: SawHolder
+    4300018: DLayer1
+    4300020: DLayer2
+    4300022: DLayer3
+    4300024: EngineR
+    4300026: EngineR.001
+    4300028: EngineM
+    4300030: EngineM.001
+    4300032: EngineL
+    4300034: EngineL.001
+    4300036: Sawblade
+    4300038: ExhaustR
+    4300040: ExhaustR.001
+    4300042: ExhaustL
+    4300044: ExhaustL.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

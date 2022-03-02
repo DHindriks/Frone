@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 7f12519f0662aa64b85997d82b2db8e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackFinL
+    100002: BackFinR
+    100004: BoosterEffect
+    100006: CoreCase
+    100008: CoreHolder
+    100010: CoreInner
+    100012: Exhaust
+    100014: //RootNode
+    100016: MainChassis
+    100018: PanelBL
+    100020: PanelBR
+    100022: PanelFL
+    100024: PanelFR
+    100026: BackFins
+    400000: BackFinL
+    400002: BackFinR
+    400004: BoosterEffect
+    400006: CoreCase
+    400008: CoreHolder
+    400010: CoreInner
+    400012: Exhaust
+    400014: //RootNode
+    400016: MainChassis
+    400018: PanelBL
+    400020: PanelBR
+    400022: PanelFL
+    400024: PanelFR
+    400026: BackFins
+    2100000: No Name
+    2300000: BackFinL
+    2300002: BackFinR
+    2300004: BoosterEffect
+    2300006: CoreCase
+    2300008: CoreHolder
+    2300010: CoreInner
+    2300012: Exhaust
+    2300014: MainChassis
+    2300016: PanelBL
+    2300018: PanelBR
+    2300020: PanelFL
+    2300022: PanelFR
+    2300024: BackFins
+    3300000: BackFinL
+    3300002: BackFinR
+    3300004: BoosterEffect
+    3300006: CoreCase
+    3300008: CoreHolder
+    3300010: CoreInner
+    3300012: Exhaust
+    3300014: MainChassis
+    3300016: PanelBL
+    3300018: PanelBR
+    3300020: PanelFL
+    3300022: PanelFR
+    3300024: BackFins
+    4300000: BackFinR
+    4300002: BoosterEffect
+    4300004: Exhaust
+    4300006: CoreCase
+    4300008: PanelBL
+    4300010: PanelBR
+    4300012: PanelFL
+    4300014: PanelFR
+    4300016: CoreInner
+    4300018: CoreHolder
+    4300020: MainChassis
+    4300022: BackFinL
+    4300024: BackFins
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

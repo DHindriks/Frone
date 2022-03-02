@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1953922204729056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4927874032733650}
+  - component: {fileID: 114502070478632846}
+  m_Layer: 0
+  m_Name: Spawnmanager
+  m_TagString: SpawnManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4927874032733650
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1953922204729056}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114502070478632846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1953922204729056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14fa118e6ab38a4885f2899edfa39d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpawnTrigger: {fileID: 1324130968963402, guid: 4dd0a495d205f4e4594e9e35d64b9feb,
+    type: 3}
+  EncounterFrequency: 51.3
+  areas:
+  - AreaName: City
+    Excluded: 0
+    color: {r: 0.99206686, g: 0, b: 1, a: 0}
+    DefaultTile: {fileID: 1377895907311494, guid: 5b69ec3fd3bab1b409916351984d4bcf,
+      type: 3}
+    tileLength: 110
+    EasyObstaclePrefabs:
+    - {fileID: 1968952548440152, guid: 59bb5c8040ac0df44886df6e8941d32a, type: 3}
+    MediumObstaclePrefabs:
+    - {fileID: 1496396917600402, guid: 4f2dd1fe47073ff4584f76bcd7091c3c, type: 3}
+    - {fileID: 1344366179229354, guid: 452be7f866091574c9566a8a0d9abdfc, type: 3}
+    HardObstaclePrefabs: []
+    SpecialTiles: []
+    DecorationsLeft:
+    - {fileID: 1913184475061344, guid: 96bf0f3e3da402d4e8afa6ed578cce44, type: 3}
+    - {fileID: 1106023915637812, guid: c017614aec713fa41a59dd1dc55e4a48, type: 3}
+    DecorationsRight: []
+    BackgroundPropsLeft:
+    - {fileID: 1571445403935510, guid: 45c0a10b5b2c0fb4d853c30185f0c5be, type: 3}
+    - {fileID: 1903305156080378, guid: 3b2f6e7c6feae844eb7a41eff673e106, type: 3}
+    BackgroundPropsRight: []
+    Encounters:
+    - {fileID: 1806064268737964, guid: 7c3037430fa37344194dd7ccee0b6d4e, type: 3}
+    - {fileID: 1949493530776816, guid: fa15efc783cbcda429587a9dbd3b0f6f, type: 3}
+    - {fileID: 1539689062289870, guid: 2e47fa21f3b52c14dbe69abcc87fc395, type: 3}
+    AreaEventTiles: []
+    EasyChance: 0.5
+    MediumChance: 0.5
+    HardChance: 0
+    SpecialChance: 0
+    UseSpecials: 1
+  - AreaName: TESHeat
+    Excluded: 0
+    color: {r: 1, g: 0.48235294, b: 0, a: 1}
+    DefaultTile: {fileID: 1338338304084358, guid: 2a62e467d583ef447b35e8328b8c85fd,
+      type: 3}
+    tileLength: 110
+    EasyObstaclePrefabs:
+    - {fileID: 1486074138702466, guid: ee6dab4cdb1cb2c418fa377e6b6ccb9a, type: 3}
+    MediumObstaclePrefabs:
+    - {fileID: 1496396917600402, guid: 4f2dd1fe47073ff4584f76bcd7091c3c, type: 3}
+    - {fileID: 1395044364195574, guid: 78734f62603c66c4c878877630187d56, type: 3}
+    HardObstaclePrefabs: []
+    SpecialTiles:
+    - {fileID: 1154473735210370, guid: 013be94f57e4ae946a5805902caec5b0, type: 3}
+    DecorationsLeft: []
+    DecorationsRight: []
+    BackgroundPropsLeft: []
+    BackgroundPropsRight: []
+    Encounters:
+    - {fileID: 1539689062289870, guid: 2e47fa21f3b52c14dbe69abcc87fc395, type: 3}
+    - {fileID: 1949493530776816, guid: fa15efc783cbcda429587a9dbd3b0f6f, type: 3}
+    AreaEventTiles: []
+    EasyChance: 0.5
+    MediumChance: 0.5
+    HardChance: 0
+    SpecialChance: 0.4
+    UseSpecials: 1
+  - AreaName: PHTunnel
+    Excluded: 1
+    color: {r: 0, g: 1, b: 1, a: 1}
+    DefaultTile: {fileID: 1823616519247156, guid: c166fe0da5ed41347891262d8ebc19ba,
+      type: 3}
+    tileLength: 110
+    EasyObstaclePrefabs: []
+    MediumObstaclePrefabs: []
+    HardObstaclePrefabs: []
+    SpecialTiles: []
+    DecorationsLeft: []
+    DecorationsRight: []
+    BackgroundPropsLeft: []
+    BackgroundPropsRight: []
+    Encounters: []
+    AreaEventTiles: []
+    EasyChance: 0.5
+    MediumChance: 0.5
+    HardChance: 0
+    SpecialChance: 0.4
+    UseSpecials: 1
+  - AreaName: PHDesert
+    Excluded: 0
+    color: {r: 1, g: 0.7241974, b: 0, a: 1}
+    DefaultTile: {fileID: 1292983848716154, guid: bab29c4f87f4c614ab16ebebdc40b578,
+      type: 3}
+    tileLength: 440
+    EasyObstaclePrefabs: []
+    MediumObstaclePrefabs: []
+    HardObstaclePrefabs: []
+    SpecialTiles: []
+    DecorationsLeft: []
+    DecorationsRight: []
+    BackgroundPropsLeft: []
+    BackgroundPropsRight: []
+    Encounters:
+    - {fileID: 1539689062289870, guid: 2e47fa21f3b52c14dbe69abcc87fc395, type: 3}
+    AreaEventTiles: []
+    EasyChance: 0.5
+    MediumChance: 0.5
+    HardChance: 0
+    SpecialChance: 0.4
+    UseSpecials: 1
+  SpecialObstacles:
+  - {fileID: 1375586060130792, guid: 26fcb146dec59c545bf8e01df9ab4260, type: 3}
+  - {fileID: 1302002316297770, guid: 10ca9fb224c76ee49b0201bbb800404d, type: 3}
+  - {fileID: 1750070148611056, guid: 2e82b43f23bf85f48a2f648ddef2991e, type: 3}
+  SpecialDecorations:
+  - {fileID: 1787136716135924, guid: fea98f1ef2fa9424f97ab5d6d875dbb8, type: 3}
+  obstacleEvents: []
+  OldTile: {fileID: 0}
+  NewestTile: {fileID: 0}
+  SpawnableAreas: []
+  SpecialAreas: []
+  SwitchArea: 1
+  CurrentArea:
+    AreaName: 
+    Excluded: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
+    DefaultTile: {fileID: 0}
+    tileLength: 0
+    EasyObstaclePrefabs: []
+    MediumObstaclePrefabs: []
+    HardObstaclePrefabs: []
+    SpecialTiles: []
+    DecorationsLeft: []
+    DecorationsRight: []
+    BackgroundPropsLeft: []
+    BackgroundPropsRight: []
+    Encounters: []
+    AreaEventTiles: []
+    EasyChance: 0
+    MediumChance: 0
+    HardChance: 0
+    SpecialChance: 0
+    UseSpecials: 1

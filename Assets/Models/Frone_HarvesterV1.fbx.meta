@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 9b19a2fe396208544ac1b4523a9bb6c8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ArmorBL
+    100002: ArmorBR
+    100004: ArmorFL
+    100006: ArmorFR
+    100008: ArmorTop
+    100010: Cannon
+    100012: CannonEnergy
+    100014: Cube
+    100016: EnergyTop
+    100018: Extractor
+    100020: //RootNode
+    100022: MidTunnel
+    400000: ArmorBL
+    400002: ArmorBR
+    400004: ArmorFL
+    400006: ArmorFR
+    400008: ArmorTop
+    400010: Cannon
+    400012: CannonEnergy
+    400014: Cube
+    400016: EnergyTop
+    400018: Extractor
+    400020: //RootNode
+    400022: MidTunnel
+    2100000: No Name
+    2300000: ArmorBL
+    2300002: ArmorBR
+    2300004: ArmorFL
+    2300006: ArmorFR
+    2300008: ArmorTop
+    2300010: Cannon
+    2300012: CannonEnergy
+    2300014: Cube
+    2300016: EnergyTop
+    2300018: Extractor
+    2300020: MidTunnel
+    3300000: ArmorBL
+    3300002: ArmorBR
+    3300004: ArmorFL
+    3300006: ArmorFR
+    3300008: ArmorTop
+    3300010: Cannon
+    3300012: CannonEnergy
+    3300014: Cube
+    3300016: EnergyTop
+    3300018: Extractor
+    3300020: MidTunnel
+    4300000: ArmorTop
+    4300002: EnergyTop
+    4300004: Extractor
+    4300006: MidTunnel
+    4300008: ArmorBL
+    4300010: ArmorBR
+    4300012: ArmorFR
+    4300014: ArmorFL
+    4300016: Cannon
+    4300018: CannonEnergy
+    4300020: Cube
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

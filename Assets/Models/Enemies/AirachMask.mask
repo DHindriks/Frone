@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AirachMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BodyLower
+    m_Weight: 1
+  - m_Path: BodyLower/Body
+    m_Weight: 1
+  - m_Path: BodyLower/Body/BodyNeon
+    m_Weight: 1
+  - m_Path: BodyLower/BodyLower_end
+    m_Weight: 1
+  - m_Path: Foot.001
+    m_Weight: 1
+  - m_Path: Foot.001/Foot.001_end
+    m_Weight: 1
+  - m_Path: Foot.002
+    m_Weight: 1
+  - m_Path: Foot.002/Foot.002_end
+    m_Weight: 1
+  - m_Path: Foot.003
+    m_Weight: 1
+  - m_Path: Foot.003/Foot.003_end
+    m_Weight: 1
+  - m_Path: Foot.004
+    m_Weight: 1
+  - m_Path: Foot.004/Foot.004_end
+    m_Weight: 1
+  - m_Path: Foot.005
+    m_Weight: 1
+  - m_Path: Foot.005/Foot.005_end
+    m_Weight: 1
+  - m_Path: Foot.006
+    m_Weight: 1
+  - m_Path: Foot.006/Foot.006_end
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 1
+  - m_Path: Head/Body.003
+    m_Weight: 1
+  - m_Path: Head/Body.005
+    m_Weight: 1
+  - m_Path: Head/Eye
+    m_Weight: 1
+  - m_Path: Head/Eye/Body.001
+    m_Weight: 1
+  - m_Path: Head/Eye/Body.004
+    m_Weight: 1
+  - m_Path: Head/Eye/Eye_end
+    m_Weight: 1
+  - m_Path: Head/LegUpper.001
+    m_Weight: 1
+  - m_Path: Head/LegUpper.001/LegMiddle.001
+    m_Weight: 1
+  - m_Path: Head/LegUpper.001/LegMiddle.001/LegBottom.001
+    m_Weight: 1
+  - m_Path: Head/LegUpper.001/LegMiddle.001/LegBottom.001/LegBottom.001_end
+    m_Weight: 1
+  - m_Path: Head/LegUpper.001/LegMiddle.001/LegBottom.001/LowerLeg.001
+    m_Weight: 1
+  - m_Path: Head/LegUpper.001/LegMiddle.001/MiddleLeg.001
+    m_Weight: 1
+  - m_Path: Head/LegUpper.001/UpperLeg.001
+    m_Weight: 1
+  - m_Path: Head/LegUpper.002
+    m_Weight: 1
+  - m_Path: Head/LegUpper.002/LegMiddle.002
+    m_Weight: 1
+  - m_Path: Head/LegUpper.002/LegMiddle.002/LegBottom.002
+    m_Weight: 1
+  - m_Path: Head/LegUpper.002/LegMiddle.002/LegBottom.002/LegBottom.002_end
+    m_Weight: 1
+  - m_Path: Head/LegUpper.002/LegMiddle.002/LegBottom.002/LowerLeg.002
+    m_Weight: 1
+  - m_Path: Head/LegUpper.002/LegMiddle.002/MiddleLeg.002
+    m_Weight: 1
+  - m_Path: Head/LegUpper.002/UpperLeg.002
+    m_Weight: 1
+  - m_Path: Head/LegUpper.003
+    m_Weight: 1
+  - m_Path: Head/LegUpper.003/LegMiddle.003
+    m_Weight: 1
+  - m_Path: Head/LegUpper.003/LegMiddle.003/LegBottom.003
+    m_Weight: 1
+  - m_Path: Head/LegUpper.003/LegMiddle.003/LegBottom.003/LegBottom.003_end
+    m_Weight: 1
+  - m_Path: Head/LegUpper.003/LegMiddle.003/LegBottom.003/LowerLeg.003
+    m_Weight: 1
+  - m_Path: Head/LegUpper.003/LegMiddle.003/MiddleLeg.003
+    m_Weight: 1
+  - m_Path: Head/LegUpper.003/UpperLeg.003
+    m_Weight: 1
+  - m_Path: Head/LegUpper.004
+    m_Weight: 1
+  - m_Path: Head/LegUpper.004/LegMiddle.004
+    m_Weight: 1
+  - m_Path: Head/LegUpper.004/LegMiddle.004/LegBottom.004
+    m_Weight: 1
+  - m_Path: Head/LegUpper.004/LegMiddle.004/LegBottom.004/LegBottom.004_end
+    m_Weight: 1
+  - m_Path: Head/LegUpper.004/LegMiddle.004/LegBottom.004/Lowerleg.004
+    m_Weight: 1
+  - m_Path: Head/LegUpper.004/LegMiddle.004/MiddleLeg.004
+    m_Weight: 1
+  - m_Path: Head/LegUpper.004/UpperLeg.004
+    m_Weight: 1
+  - m_Path: Head/LegUpper.005
+    m_Weight: 1
+  - m_Path: Head/LegUpper.005/LegMiddle.005
+    m_Weight: 1
+  - m_Path: Head/LegUpper.005/LegMiddle.005/LegBottom.005
+    m_Weight: 1
+  - m_Path: Head/LegUpper.005/LegMiddle.005/LegBottom.005/LegBottom.005_end
+    m_Weight: 1
+  - m_Path: Head/LegUpper.005/LegMiddle.005/LegBottom.005/LowerLeg.005
+    m_Weight: 1
+  - m_Path: Head/LegUpper.005/LegMiddle.005/MiddleLeg.005
+    m_Weight: 1
+  - m_Path: Head/LegUpper.005/UpperLeg.005
+    m_Weight: 1
+  - m_Path: Head/LegUpper.006
+    m_Weight: 1
+  - m_Path: Head/LegUpper.006/LegMiddle.006
+    m_Weight: 1
+  - m_Path: Head/LegUpper.006/LegMiddle.006/LegBottom.006
+    m_Weight: 1
+  - m_Path: Head/LegUpper.006/LegMiddle.006/LegBottom.006/LegBottom.006_end
+    m_Weight: 1
+  - m_Path: Head/LegUpper.006/LegMiddle.006/LegBottom.006/LowerLeg.006
+    m_Weight: 1
+  - m_Path: Head/LegUpper.006/LegMiddle.006/MiddleLeg.006
+    m_Weight: 1
+  - m_Path: Head/LegUpper.006/UpperLeg.006
+    m_Weight: 1
+  - m_Path: KneeLower.001
+    m_Weight: 1
+  - m_Path: KneeLower.001/KneeLower.001_end
+    m_Weight: 1
+  - m_Path: KneeLower.002
+    m_Weight: 1
+  - m_Path: KneeLower.002/KneeLower.002_end
+    m_Weight: 1
+  - m_Path: KneeLower.003
+    m_Weight: 1
+  - m_Path: KneeLower.003/KneeLower.003_end
+    m_Weight: 1
+  - m_Path: KneeLower.004
+    m_Weight: 1
+  - m_Path: KneeLower.004/KneeLower.004_end
+    m_Weight: 1
+  - m_Path: KneeLower.005
+    m_Weight: 1
+  - m_Path: KneeLower.005/KneeLower.005_end
+    m_Weight: 1
+  - m_Path: KneeLower.006
+    m_Weight: 1
+  - m_Path: KneeLower.006/KneeLower.006_end
+    m_Weight: 1
