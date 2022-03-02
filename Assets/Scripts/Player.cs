@@ -430,6 +430,9 @@ public class Player : MonoBehaviour {
 
         GameManager.Instance.AddReputation(Supportingfaction, Finalscore / 10);
 
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+
         gameoverscreen.SetActive(true);
         score.text = "Score: " + Finalscore.ToString();
         gameoverscreen.transform.position = Vector3.Lerp(gameoverscreen.transform.position,gameoverscreen.transform.root.position, 5);

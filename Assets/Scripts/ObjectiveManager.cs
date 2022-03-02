@@ -37,7 +37,10 @@ public class ObjectiveManager : MonoBehaviour {
             Distance = 0;
             olddistance = 0;
             Countscore = true;
-        }else
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+        }
+        else
         {
             Countscore = false;
         }
