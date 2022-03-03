@@ -68,10 +68,14 @@ public class Camerascript : MonoBehaviour {
         MainCamera.fieldOfView = FOV;
     }
 
+        Vector3 positionVelocity = Vector3.zero;
     // Update is called once per frame
     void FixedUpdate () {
-        this.transform.position = Vector3.Lerp(this.transform.position, new Vector3(Vector3.Lerp(FollowTarget.transform.position, this.transform.GetChild(0).transform.localPosition, AxisLerpamount).x, FollowTarget.transform.position.y, FollowTarget.transform.position.z), PosLerpSpeed * Time.deltaTime);
+
+        Vector3 TargetPos = new Vector3(Vector3.Lerp(FollowTarget.transform.position, this.transform.GetChild(0).transform.localPosition, AxisLerpamount).x, FollowTarget.transform.position.y, FollowTarget.transform.position.z);
+        //transform.position = Vector3.Lerp(transform.position, TargetPos, PosLerpSpeed * Time.deltaTime);
+        transform.position = Vector3.SmoothDamp(transform.position, TargetPos,ref positionVelocity, 0.3f);
         TargetRotation = Quaternion.LookRotation(LookTarget.transform.position - this.transform.GetChild(0).position);
-        this.transform.GetChild(0).rotation = Quaternion.Slerp(this.transform.GetChild(0).rotation, Quaternion.Lerp(TargetRotation, transform.rotation, LookLerpamount), LookLerpspeed * Time.deltaTime);
+        transform.GetChild(0).rotation = Quaternion.Slerp(this.transform.GetChild(0).rotation, Quaternion.Lerp(TargetRotation, transform.rotation, LookLerpamount), LookLerpspeed * Time.deltaTime);
     }
 }
